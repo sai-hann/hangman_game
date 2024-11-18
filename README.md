@@ -14,5 +14,5 @@ It has a jar file as far as I test it, it can run also on windows and linux.
 
 1. Create user with username **"hangman"**
 1. Use password **"Hangman3142"** for that user.
-1. create and restore **"hangman_db** with that given hangman_db.sql
+1. create and restore **"hangman_db"** with that given hangman_db.sql
 1. You can run from src folder or just run the jar file.
